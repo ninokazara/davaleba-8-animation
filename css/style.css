@@ -36,6 +36,9 @@ li {
     margin-left: auto;
     margin-right: auto;
 }
+.box:hover {
+    background-color: aqua;
+}
 .text {
     color: #fff;
     text-align: center;
